@@ -5,7 +5,7 @@
 
 ## Sobre mim
 
-Sou estudante de **Ciências da Computação** pela Descomplica (início previsto em 2024) e estou sempre em busca de oportunidades para meu desenvolvimento pessoal e profissional. Meu objetivo é me tornar um desenvolvedor web de destaque, com foco no **backend** e na aplicação de boas práticas de desenvolvimento.
+Sou estudante de **Ciências da Computação**  e estou sempre em busca de oportunidades para meu desenvolvimento pessoal e profissional. Meu objetivo é me tornar um desenvolvedor web de destaque, com foco no **backend** e na aplicação de boas práticas de desenvolvimento.
 
 - 🌱 **Estudando atualmente**: C# e desenvolvimento web, aprofundando meus conhecimentos em backend.
 - 🚀 **Objetivo**: Crescer profissionalmente na área de TI, contribuindo com soluções inovadoras e de alto impacto.
